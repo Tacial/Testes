@@ -28,7 +28,7 @@
       "targets": [
         ["css=#datepicker-div > #initial-date-button path", "css:finder"]
       ],
-      "value": ""
+      "value": " "
     }, {
       "id": "58917e35-95a5-4385-9260-dcc03529a026",
       "comment": "",
